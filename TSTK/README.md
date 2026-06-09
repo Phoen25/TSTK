@@ -9,4 +9,14 @@ Though, undocumented right now, when I had successful registered and configured 
 If only all this could be done with a single command, it would save a lot.
 The objective is to create a unified toolkit that automates installation, configuration, updating, and execution of commonly used security and DevSecOps utilities within a Termux environment.
 
+## Success Criteria.
+* One-command installation.
+* Automated dependency management.
+* Modular architecture.
+* Logging system.
+* Configuration management.
+* Security-focused design.
+* Complete documentation.
+* Reproducible deployment.
+
 ### Junior Chief Architect: Wavamuno Shafiki. 
